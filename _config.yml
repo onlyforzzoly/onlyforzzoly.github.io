@@ -1,19 +1,19 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: LEE Ji In (이지인)
+description: 'Deep Dive : 깊숙이 파고든다' 라는 말을 모토 삼아 철저한 분석과 깔끔한 업무 처리를 지향합니다.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I'm a Software Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Giving Circles working with Grapevine, a California based startup trying to improve the world through collaborative giving. I'm the first engineer they hired to work on the platform.
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: LEE Ji In (이지인)
+user_description: 유머, 재치, 진중함을 모두 겸비한 3년차 사업·서비스 기획자로, 20여건 이상의 B2G, B2B 사업 경험을 바탕으로 통찰력과 노련함을 갖추게 되었습니다.
+user_title: 사업·서비스 기획자
+email: onlyforzzoly@gmail.com
 # twitter_username: lorem_ipsum
-instagram_username: mauriciourraco7
-facebook_username: mauricio.urraco
-linkedin_username: murraco
-github_username:  murraco
+instagram_username: onlyforzzoly
+notion_url: https://lunar-jumpsuit-314.notion.site/843aa9952d1f43cdb9ebe5abef030354
+# linkedin_username: murraco
+# github_username:  murraco
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
